@@ -1,1 +1,1 @@
-# responsive-web-design-fcc
+# fcc-responsive-web-design
